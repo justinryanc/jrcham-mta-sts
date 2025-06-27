@@ -1,5 +1,4 @@
 version: STSv1
 mode: none
-mx: mx01.mail.icloud.com
-mx: mx02.mail.icloud.com
+mx: jrcham-com.mail.protection.outlook.com
 max_age: 604800
